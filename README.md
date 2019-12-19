@@ -14,7 +14,7 @@ scrapping and the deployment of docker containers from R.
 
 ``` r
 # install.packages("devtools")
-devtools::install.packages("benjaminguinaudeau/tidybrowser")
+devtools::install_github("benjaminguinaudeau/tidybrowser")
 ```
 
 ## Packages
